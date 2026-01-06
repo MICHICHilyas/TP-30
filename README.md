@@ -75,7 +75,12 @@ pipeline {
 - ✅ Build Docker
 - ✅ Déploiement automatique
 
-## 👨‍💻 Auteur
+## � Captures d'écran
+
+### Jenkins Pipeline
+![Jenkins Pipeline](img.png)
+
+## �👨‍💻 Auteur
 
 **Ilyas MICHICH**
 
